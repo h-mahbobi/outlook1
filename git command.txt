@@ -1,0 +1,15 @@
+##
+git init
+
+git remote add origin https://github.com/h-mahbobi/ALL.git
+
+git pull origin main
+
+git add .
+
+git status
+
+git commit -m "new file add2"
+
+git push
+
